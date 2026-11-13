@@ -1,0 +1,10 @@
+﻿# PUBLIC REPO - CARD IMAGES ONLY.
+# Everything is ignored by default. Only card PNGs are allowed back in.
+# Candidate data (profiles/, outreach/, matrices, picks) lives in the PRIVATE
+# VRFJ repo and must never appear here. Git history is permanent.
+*
+!cards/
+!cards/**/
+!cards/**/*.png
+!.gitignore
+!README.md
