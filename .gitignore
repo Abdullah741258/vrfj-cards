@@ -8,3 +8,5 @@
 !cards/**/*.png
 !.gitignore
 !README.md
+# AI for Finance series carousels (public LinkedIn posts, no candidate data). Allowed 22 Nov 2026 (Abdullah).
+!cards/ai-finance/*.pdf
